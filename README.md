@@ -1,6 +1,6 @@
 # Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images
 
-This repository provides the pytorch implementatin of our ICLR 2024 work: [Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images](https://arxiv.org/abs/2303.12993).
+This repository provides the pytorch implementatin of our ICLR 2024 work: [Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images](https://arxiv.org/abs/2401.11170).
 
 ## Abstract
 
