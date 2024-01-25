@@ -44,7 +44,12 @@ bash scripts/run.sh
 ## Citation
 
 ```
-coming soon
+@inproceedings{gao2024inducing,
+  title={Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images},
+  author={Gao, Kuofeng and Bai, Yang and Gu, Jindong and Xia, Shu-Tao and Torr, Philip and Li, Zhifeng and Liu, Wei},
+  booktitle={ICLR},
+  year={2024}
+}
 ```
 
 ## Acknowledgements
